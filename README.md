@@ -1,0 +1,1 @@
+[![crates.io](https://img.shields.io/npm/v/@rtok/tarq?label=latest)](https://www.npmjs.com/package/tarq)

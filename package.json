@@ -1,0 +1,25 @@
+{
+  "name": "@rtok/tarq",
+  "version": "0.1.0",
+  "description": "Tool collecting code metrics for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tarq": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konabe/tarq.git"
+  },
+  "author": "Ryota Konabe <rt.konabe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konabe/tarq/issues"
+  },
+  "homepage": "https://github.com/konabe/tarq#readme",
+  "dependencies": {
+    "tarq_core": "^0.1.5"
+  }
+}
